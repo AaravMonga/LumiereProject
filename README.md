@@ -1,6 +1,6 @@
 # LumiereProject
 
-Research project using applied data science. 
+Research project using applied computer & data science. 
 
 This package uses Keras as framework which provides a high-level neural networks API developed with a focus on enabling fast experimentation.
 
