@@ -55,7 +55,7 @@ Short Term Delinquency	0.076<br>
 Long Term Delinquency	0.056<br>
 Average Loan Per Borrower	0.068<br>
 Cost per Borrower	0.117<br>
-Borrowers per Loan Officer	0.052<br>
+Borrowers per Loan Officer	0.052<br><br>
 
 Mean Shapley Importance for non-engineered features (2) across 10 random states:</p>
 Number of Officers	0.373<br>
