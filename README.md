@@ -47,26 +47,26 @@ Mean test-set accuracy across 10 random states:
 </p>
 
 <p>Mean Feature Importance for non-engineered features (1) across 10 random states:</p>
-<p>Number of Officers	0.026</p>
-<p>Gross Loan Portfolio	0.094</p>
-<p>Number of Active borrowers	0.086</p>
-<p>Number of Loans Outstanding	0.118</p>
-<p>Short Term Delinquency	0.076</p>
-<p>Long Term Delinquency	0.056</p>
-<p>Average Loan Per Borrower	0.068</p>
-<p>Cost per Borrower	0.117</p>
-<p>Borrowers per Loan Officer	0.052</p>
+Number of Officers	0.026<br>
+Gross Loan Portfolio	0.094<br>
+Number of Active borrowers	0.086<br>
+Number of Loans Outstanding	0.118<br>
+Short Term Delinquency	0.076<br>
+Long Term Delinquency	0.056<br>
+Average Loan Per Borrower	0.068<br>
+Cost per Borrower	0.117<br>
+Borrowers per Loan Officer	0.052<br>
 
-<p>Mean Shapley Importance for non-engineered features (2) across 10 random states:</p>
-<p>Number of Officers	0.373</p>
-<p>Gross Loan Portfolio	0.421</p>
-<p>Number of Active borrowers	0.103</p>
-<p>Number of Loans Outstanding	0.162</p>
-<p>Short Term Delinquency	0.564</p>
-<p>Long Term Delinquency	0.520</p>
-<p>Average Loan Per Borrower	0.338</p>
-<p>Cost per Borrower	0.920</p>
-<p>Borrowers per Loan Officer	0.124</p>
+Mean Shapley Importance for non-engineered features (2) across 10 random states:</p>
+Number of Officers	0.373<br>
+Gross Loan Portfolio	0.421<br>
+Number of Active borrowers	0.103<br>
+Number of Loans Outstanding	0.162<br>
+Short Term Delinquency	0.564<br>
+Long Term Delinquency	0.520<br>
+Average Loan Per Borrower	0.338<br>
+Cost per Borrower	0.920<br>
+Borrowers per Loan Officer	0.124
 
 
 
