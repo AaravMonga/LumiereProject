@@ -10,25 +10,15 @@ This package uses Keras as framework which provides a high-level neural networks
 
 ## Information
 
-[Fill-in: Give a one sentence summary of the github repo]
+This repo contains the code used in the research project titled "A For-profit Model of Microcredit: Can Profit-driven Firms Improve Financial Inclusion in India?"
 
 ## Data
-
-This is the section we introduce data. 
-- provide summary statistics (one paragraph)
-- plot / visualization / EDA (exploratory data analysis) <= use visualization to help people understand [name of the link](https://google.com)
+Data is sourced from the MIX Markets database of Microfinance Institutions (MFIs); MFIs in India or economically comparable regions are included.
+The following features are extracted from the database: Number of Loan Officers, Gross Loan Portfolio, Number of Active Borrowers, Number of Loans Outstanding, Short Term Delinquency, Long term Delinquency, Average Loan per Borrower, Cost per Borrower, Borrowers per Loan Officer, Profit. 7 additional engineered features are included.
+All features are normalized.
 
 ## Benchmark
 
-Two potential directions:
-
-(1) Suppose you are interested in a particular data. Check whether others have tried this data before. How did they do it? And what is the performance?
-
-(2) Suppose you are interested in a methodology, say neural network. Check what are the famous data sets that people use neural network on. This section will discuss those famous examples as benchmark. 
-
-Pinpoint: what is the pitfall/drawback of the benchmark?
-
-Source: [Paper with Code](https://paperswithcode.com/)
 
 ## Proposed Model / Algorithm
 
