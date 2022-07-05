@@ -1,3 +1,6 @@
+#This project focuses on gaining insights on increasing the profitability of microcredit enterprises using statistical inferences from learned models. For the sake of interpretability, and with output accuracy not being the primary optimization objective, this project employs simple algorithms with minimal alterations to input data.
+#This script presents a condensed, easy-to-follow version of the scripts used in this project using simple packages. It does not cover experimentation/optimization of model hyperparameters.
+
 #Loading packages
 import os              
 import numpy as np    
